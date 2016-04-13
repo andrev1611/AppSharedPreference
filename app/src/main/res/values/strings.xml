@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppSharedPreference</string>
+
+    <string name="bienvenida">Uso de Shared Preferences</string>
+    <string name="botonmostrar">Mostrar</string>
+    <string name="botonguardar">Guardar</string>
+    <string name="hintdato">Ingrese un dato ...</string>
+</resources>
